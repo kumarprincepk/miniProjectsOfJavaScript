@@ -1,0 +1,20 @@
+body{
+    display: grid;
+    place-items: center;
+    background-color: aquamarine;
+    padding-top: 20%;
+    font-family: cursive;
+
+}
+.container{
+    background: linear-gradient(pink,orange,lightgreen,yellow,purple);
+    display: flex;
+    border-radius: 20px;
+
+}
+.cont{
+    padding: 24px;
+}
+.fa-solid{
+    color: white;
+}
